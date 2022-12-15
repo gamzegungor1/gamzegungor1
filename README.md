@@ -26,6 +26,7 @@ Whenever I find time from the software, I take care to make creative structures 
 <br>
 
 ### 🔧 Languages and Tools:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
 <a href="https://www.python.org" rel="nofollow">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
                         </a>
@@ -48,6 +49,7 @@ Whenever I find time from the software, I take care to make creative structures 
                             <img src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" alt="sqlite" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="max-width: 100%;">
                         </a>
                         <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
 
 ### 📩 Connect with me:
 
