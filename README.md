@@ -16,7 +16,7 @@
 
 ## Hello, I'm Gamze Güngör, I'm a 3rd year student at Trakya University, Department of Information Systems and Technologies.
 
-👨‍🎓I am developing Back-End , Front-End parents myself. I am open to learning and I follow new technologies closely.
+👨‍🎓I am developing Back-End , Front-End . I am open to learning and I follow new technologies closely.
 
 👯I am currently actively learning Java and developing websites using HTML-CSS, PHP JAVA SQL. Although I have contributed a lot to myself since I first came to the software, there are still many things that I do not know, and researching, learning and applying these subjects is my biggest passion right now.
 
