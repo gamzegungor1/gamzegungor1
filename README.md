@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## I'm a Student 👨‍🎓, Back-End Developer 🚀 👨‍🎓!
+## I'm a Student 👨‍🎓, Software Developer 🚀 👨‍🎓!
 - 🔭 I’m currently working on a large and special application.
 - 🌱 I’m currently learning 😂
 - 👯 I’m looking to collaborate with other Back-End developer 👩‍💻 and web designers 🎨
